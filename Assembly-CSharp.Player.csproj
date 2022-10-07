@@ -55,14 +55,13 @@
      <Compile Include="Assets\Scripts\SimpleFirstPersonMovement.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
-     <None Include="Assets\3d models\UCSB_3D-main\UCSB_3D\Assets\Odds_N_Ends Series - Tropical Foliage v1.0\Shader\CustomFoliage.shader" />
+     <None Include="Assets\Odds_N_Ends Series - Tropical Foliage v1.0\Shader\CustomFoliage.shader" />
      <None Include="Assets\AutoSave\ReadMe.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
      <None Include="Assets\Environment\Prefabs\LowPolyOfficeProps_LITE\About.txt" />
-     <None Include="Assets\3d models\UCSB_3D-main\UCSB_3D\Assets\Flooded_Grounds\Resources\TreeCreator\TreeCreatorBark.shader" />
+     <None Include="Assets\Flooded_Grounds\Resources\TreeCreator\TreeCreatorBark.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
-     <None Include="Assets\3d models\UCSB_3D-main\UCSB_3D\Assets\Flooded_Grounds\Resources\TreeCreator\TreeCreatorLeavesOptimized.shader" />
-     <None Include="Assets\3d models\UCSB_3D-main\UCSB_3D\Library\LibraryFormatVersion.txt" />
+     <None Include="Assets\Flooded_Grounds\Resources\TreeCreator\TreeCreatorLeavesOptimized.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
@@ -71,18 +70,17 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-     <None Include="Assets\3d models\UCSB_3D-main\UCSB_3D\Assets\MRTK\Shaders\MixedRealityStandard.shader" />
-     <None Include="Assets\3d models\UCSB_3D-main\UCSB_3D\Assets\Flooded_Grounds\Resources\TreeCreator\TreeCreatorBarkOptimized.shader" />
+     <None Include="Assets\MRTK\Shaders\MixedRealityStandard.shader" />
+     <None Include="Assets\Flooded_Grounds\Resources\TreeCreator\TreeCreatorBarkOptimized.shader" />
      <None Include="Assets\Environment\Prefabs\BJ MokaPot\README.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
-     <None Include="Assets\3d models\UCSB_3D-main\UCSB_3D\Library\LastSceneManagerSetup.txt" />
-     <None Include="Assets\3d models\UCSB_3D-main\UCSB_3D\Assets\Flooded_Grounds\Resources\TreeCreator\TreeCreatorLeaves.shader" />
+     <None Include="Assets\Flooded_Grounds\Resources\TreeCreator\TreeCreatorLeaves.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
-     <None Include="Assets\3d models\UCSB_3D-main\UCSB_3D\Assets\MRTK\Shaders\MixedRealityShaderUtils.cginc" />
+     <None Include="Assets\MRTK\Shaders\MixedRealityShaderUtils.cginc" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll</HintPath>
  </Reference>
