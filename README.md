@@ -21,7 +21,11 @@ duplicate of the entire UCSB model in 'Environment->vrtucsb.fbx' to make sure yo
 
 Currently in progress/finished:
 Kirby Crossing - yujnkm@ucsb.edu
+
 Life Sciences - yujnkm@ucsb.edu
+
 Noble Hall - yujnkm@ucsb.edu
+
 RECVEB - justin_kasowski@ucsb.edu
+
 Student Affairs - yujnkm@ucsb.edu
