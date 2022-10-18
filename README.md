@@ -9,8 +9,8 @@ Create a Unity project, delete the Assets folder, and git pull the provided Asse
 any additional set-up with your git remote and it will work out of the box with Unity.
 
 As a first step, create an empty scene with the building you plan to work on in the Scenes->Subsections directory. 
-Edit this ReadMe file with a little information on the building/space (enough to clearly explain what area you are working on),
-and importantly, YOUR CONTACT INFORMATION (email).
+Edit this ReadMe file (the one you're currently reading) with a little information on the building/space (enough 
+to clearly explain what area you are working on), and importantly, YOUR CONTACT INFORMATION (email).
 Commit the scene, push to github, and open a pull request (guide linked above).
 
 This insures any building currently being worked on will already be listed in the subsections folder. If someone wants
