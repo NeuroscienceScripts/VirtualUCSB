@@ -6,7 +6,7 @@ To help build virtual UCSB, create a fork of the project by following this guide
 https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 
 Create a Unity project, delete the Assets folder, and git pull the provided Assets folder. Doing it this way doesn't require
-any additional set-up with your git remote and it will .
+any additional set-up with your git remote and it will work out of the box with Unity.
 
 As a first step, create an empty scene with the building you plan to work on in the Scenes->Subsections directory. 
 Edit this ReadMe file with a little information on the building/space (enough to clearly explain what area you are working on),
