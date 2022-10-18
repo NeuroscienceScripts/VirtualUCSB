@@ -20,6 +20,7 @@ In general, you should only be committing the scene that you are working on. You
 duplicate of the entire UCSB model in 'Environment->vrtucsb.fbx' to make sure your building is the correct size/shape. 
 
 Currently in progress/finished:
+
 Kirby Crossing - yujnkm@ucsb.edu
 
 Life Sciences - yujnkm@ucsb.edu
